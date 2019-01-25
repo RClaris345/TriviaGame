@@ -1,0 +1,34 @@
+body{
+    background-image:  url("../images/retroBackground.jpg");
+    
+    
+}
+
+#container {
+    background-color: tan;
+    padding: 30px;
+    margin-right: 80px;
+    margin-left: 80px;
+    text-align: center;
+    font-family: fantasy;
+    text-align: center;
+
+}
+
+#title{
+    text-align: center;   
+}
+
+#container-2{
+
+    background-color: tan;
+    margin-right: 300px;
+    margin-left: 300px;
+    text-align: center; 
+    height: 70%;
+    margin-top: 100px;
+}
+
+/* .text{
+    text-align: center;
+} */
